@@ -1,21 +1,34 @@
 <h1 align="center">Hi there, I'm Abi Varsan P 👋</h1>
 
 <p align="center">
-  <em>Aspiring Full-Stack Developer &bull; Java Enthusiast &bull; Web Dev Learner</em>
+  <em>Aspiring Full-Stack Developer • Java Enthusiast • Web Development Learner</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AbiVarsanP&style=flat-square&color=blue" alt="Profile views"/>
 </p>
 
 ---
 
-### 🙋‍♂️ About Me
+## 📌 Profile Overview
 
-- 👀 I'm interested in **coding** and **web development**
-- 🌱 Currently learning **Full-Stack Development** and **Java**
-- 💡 Always exploring new technologies and building projects
-- 📫 Reach me at: **website2k5@gmail.com**
+Welcome to my GitHub profile repository.  
+This README gives a complete and simple overview of who I am, what I am learning, and the technologies I work with.
 
 ---
 
-### 🛠️ Tech Stack
+## 🙋‍♂️ About Me
+
+- 👀 Interested in **coding** and **web development**
+- 🌱 Currently learning **Full-Stack Development** and **Java**
+- 💡 Exploring new technologies and building practical projects
+- 🎯 Focused on improving problem-solving and development skills
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages & Web Technologies
 
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java"/>
@@ -26,7 +39,7 @@
 
 ---
 
-### 📊 GitHub Stats
+## 📊 GitHub Analytics
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbiVarsanP&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="160"/>
@@ -35,7 +48,15 @@
 
 ---
 
-### 🔗 Connect with Me
+## 🚀 Current Learning Path
+
+- Full-Stack Development fundamentals
+- Java programming and backend concepts
+- Better project structure and clean coding practices
+
+---
+
+## 🔗 Contact
 
 <p>
   <a href="mailto:website2k5@gmail.com">
@@ -43,8 +64,10 @@
   </a>
 </p>
 
+📫 Email: **website2k5@gmail.com**
+
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AbiVarsanP&style=flat-square&color=blue" alt="Profile views"/>
+  Thanks for visiting my profile! ⭐
 </p>
